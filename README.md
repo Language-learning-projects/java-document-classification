@@ -11,6 +11,9 @@ A web application that uses machine learning algorithms to classify text documen
 ## Learning
 
 - Java
+- GRASP
+- SOLID
+- Patterns
 - Trie
 - Matrix
 - Machine learning algorithms
