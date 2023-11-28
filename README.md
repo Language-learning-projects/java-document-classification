@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Java document classification
 
 This repository contains code of a learning project called: "Java document classification".
